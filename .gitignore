@@ -27,3 +27,6 @@ hs_err_pid*
 patriot-http-coap-testing-app/.idea/*
 *.iml
 patriot-http-coap-testing-app/target
+
+http-calls-storage-app/.idea/*
+http-calls-storage-app/target
